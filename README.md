@@ -8,7 +8,7 @@
 
 在案例中学python，告别枯燥。 如果转载本库中案例，请备注下方链接：python案例 [https://github.com/530380349/python-examples]( https://github.com/530380349/python-examples)
 
-关注官方公众号了解更多：[Python提升课堂](img/python.jpg)
+关注官方公众号了解更多：[Python提升课堂](https://mmbiz.qpic.cn/mmbiz_jpg/FTnbu1ACcp01CLKXiadFr3PtzSW4Au1c9MKkKKudYspQsrpLE0PjvB6bictfEeacL6EotHDzozibhEdLPyjShNSiaw/0?wx_fmt=jpeg)
 
 ## License
 
