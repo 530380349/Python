@@ -2,7 +2,7 @@
 
 <table><tr style="border: none;text-align: center;"><td style="background-color: #4CAF50;border: none;color: white;padding: 5px 20px;text-align: center;text-decoration: none;display: inline-block;font-size: 12px;margin: 14px 12px;cursor: pointer;border-radius: 12px;">Python</td><td  style="background-color: #f44336;border: none;color: white;padding: 5px 20px;text-align: center;text-decoration: none;display: inline-block;font-size: 12px;margin: 14px 12px;cursor: pointer;border-radius: 12px;">数据分析</td><td  style="background-color: #5522cc;border: none;color: white;padding: 5px 20px;text-align: center;text-decoration: none;display: inline-block;font-size: 12px;margin: 14px 12px;cursor: pointer;border-radius: 12px;">算法</td><td  style="background-color: #aa363d;border: none;color: white;padding: 5px 20px;text-align: center;text-decoration: none;display: inline-block;font-size: 12px;margin: 14px 12px;cursor: pointer;border-radius: 12px;">公众号:Python提升课堂</td></tr></table>
 
-![公众号](img/python.jpg)
+![公众号](https://mmbiz.qpic.cn/mmbiz_jpg/FTnbu1ACcp01CLKXiadFr3PtzSW4Au1c9MKkKKudYspQsrpLE0PjvB6bictfEeacL6EotHDzozibhEdLPyjShNSiaw/0?wx_fmt=jpeg)
 
 ## 案例介绍
 
